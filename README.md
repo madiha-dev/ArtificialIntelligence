@@ -1,0 +1,2 @@
+# ArtificialIntelligence
+Assignments, Study
